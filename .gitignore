@@ -1,0 +1,12 @@
+.DS_Store
+
+*.log
+*.out
+
+*.a
+*.o
+*.s
+*~
+
+bin/*
+!bin/.gitkeep
